@@ -1,22 +1,22 @@
 #Swagger UI Themes:
 
 Swagger Docs are awesome. Why not make them look better! Below is a collection of themes for [Swagger UI](http://swagger.io/swagger-ui/).
-[GitHub Swagger UI](https://github.com/swagger-api/swagger-ui)
+You can find the Swagger UI project on GitHub [here](https://github.com/swagger-api/swagger-ui).
 
 ### Flat
-![Flat Screenshot](https://github.com/ostranme/swagger-ui-themes/blob/master/screenshots/html.png)
+![Flat Screenshot](https://github.com/ostranme/swagger-ui-themes/tree/master/screenshots/html.png)
 
 ### Mute
-![Mute Screenshot](https://github.com/ostranme/swagger-ui-themes/blob/master/screenshots/css.png)
+![Mute Screenshot](https://github.com/ostranme/swagger-ui-themes/tree/master/screenshots/css.png)
 
 ### Newspaper
-![Newspaper Screenshot](https://github.com/ostranme/swagger-ui-themes/blob/master/screenshots/js.png)
+![Newspaper Screenshot](https://github.com/ostranme/swagger-ui-themes/tree/master/screenshots/js.png)
 
 ### Outline
-![Outline Screenshot](https://github.com/ostranme/swagger-ui-themes/blob/master/screenshots/js.png)
+![Outline Screenshot](https://github.com/ostranme/swagger-ui-themes/tree/master/screenshots/js.png)
 
 ### Monokai
-![Monokai Screenshot](https://github.com/ostranme/swagger-ui-themes/blob/master/screenshots/js.png)
+![Monokai Screenshot](https://github.com/ostranme/swagger-ui-themes/tree/master/screenshots/js.png)
 
 ###Installation
 ---
