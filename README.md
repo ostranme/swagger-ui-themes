@@ -10,7 +10,7 @@ You can find the Swagger UI project on GitHub [here](https://github.com/swagger-
 ![Mute Screenshot](https://github.com/ostranme/swagger-ui-themes/blob/master/screenshots/mute.png)
 
 ### Newspaper
-![Newspaper Screenshot](https://github.com/ostranme/swagger-ui-themes/blob/master/screenshots/newpaper.png)
+![Newspaper Screenshot](https://github.com/ostranme/swagger-ui-themes/blob/master/screenshots/newspaper.png)
 
 ### Outline
 ![Outline Screenshot](https://github.com/ostranme/swagger-ui-themes/blob/master/screenshots/outline.png)
