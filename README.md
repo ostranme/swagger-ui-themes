@@ -4,19 +4,19 @@ Swagger Docs are awesome. Why not make them look better! Below is a collection o
 You can find the Swagger UI project on GitHub [here](https://github.com/swagger-api/swagger-ui).
 
 ### Flat
-![Flat Screenshot](https://github.com/ostranme/swagger-ui-themes/tree/master/screenshots/flat.png)
+![Flat Screenshot](https://github.com/ostranme/swagger-ui-themes/blob/master/screenshots/flat.png)
 
 ### Mute
-![Mute Screenshot](https://github.com/ostranme/swagger-ui-themes/tree/master/screenshots/mute.png)
+![Mute Screenshot](https://github.com/ostranme/swagger-ui-themes/blob/master/screenshots/mute.png)
 
 ### Newspaper
-![Newspaper Screenshot](https://github.com/ostranme/swagger-ui-themes/tree/master/screenshots/newpaper.png)
+![Newspaper Screenshot](https://github.com/ostranme/swagger-ui-themes/blob/master/screenshots/newpaper.png)
 
 ### Outline
-![Outline Screenshot](https://github.com/ostranme/swagger-ui-themes/tree/master/screenshots/outline.png)
+![Outline Screenshot](https://github.com/ostranme/swagger-ui-themes/blob/master/screenshots/outline.png)
 
 ### Monokai
-![Monokai Screenshot](https://github.com/ostranme/swagger-ui-themes/tree/master/screenshots/monokai.png)
+![Monokai Screenshot](https://github.com/ostranme/swagger-ui-themes/blob/master/screenshots/monokai.png)
 
 ###Installation
 ---
