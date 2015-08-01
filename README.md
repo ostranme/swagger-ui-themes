@@ -3,10 +3,10 @@
 Swagger Docs are awesome. Why not make them look better! Below is a collection of themes for [Swagger UI](http://swagger.io/swagger-ui/).
 You can find the Swagger UI project on GitHub [here](https://github.com/swagger-api/swagger-ui).
 
-### Flat
+### Flattop
 ![Flattop Screenshot](https://github.com/ostranme/swagger-ui-themes/blob/master/screenshots/flattop.png)
 
-### Mute
+### Muted
 ![Muted Screenshot](https://github.com/ostranme/swagger-ui-themes/blob/master/screenshots/muted.png)
 
 ### Newspaper
@@ -26,7 +26,7 @@ Feel free to open an issue or suggest more themes!
 
 ###Demo
 ---
-The [Swagger Petstore](http://petstore.swagger.io/#/) example was used as the example to showcase different themes. In the demo folder, open the index.html file and either remove or comment out the `<link href='css/screen.css' media='screen' rel='stylesheet' type='text/css'/>` in the `<head>` tags. Next add a link to the desired theme you want by adding `<link href='PATH TO THEME' media='screen' rel='stylesheet' type='text/css'/>`. Serve up the index.html locally to view theme. 
+The [Swagger Petstore](http://petstore.swagger.io/#/) example was used as the example to showcase different themes. In the demo folder, open the index.html file and either remove or comment out the `<link href='css/screen.css' media='screen' rel='stylesheet' type='text/css'/>` in the `<head>` tags. Next add a link to the desired theme you want by adding `<link href='PATH TO THEME' media='screen' rel='stylesheet' type='text/css'/>`. Serve up the index.html locally to view theme.
 
 ###License
 ---
