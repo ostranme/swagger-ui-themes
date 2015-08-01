@@ -4,10 +4,10 @@ Swagger Docs are awesome. Why not make them look better! Below is a collection o
 You can find the Swagger UI project on GitHub [here](https://github.com/swagger-api/swagger-ui).
 
 ### Flat
-![Flat Screenshot](https://github.com/ostranme/swagger-ui-themes/blob/master/screenshots/flat.png)
+![Flattop Screenshot](https://github.com/ostranme/swagger-ui-themes/blob/master/screenshots/flattop.png)
 
 ### Mute
-![Mute Screenshot](https://github.com/ostranme/swagger-ui-themes/blob/master/screenshots/mute.png)
+![Muted Screenshot](https://github.com/ostranme/swagger-ui-themes/blob/master/screenshots/muted.png)
 
 ### Newspaper
 ![Newspaper Screenshot](https://github.com/ostranme/swagger-ui-themes/blob/master/screenshots/newspaper.png)
@@ -20,9 +20,13 @@ You can find the Swagger UI project on GitHub [here](https://github.com/swagger-
 
 ###Installation
 ---
-Simply just add one of the above stylesheets in the themes folder to the source of swagger-ui theme html page. Make sure to either remove/comment out the screen.css link or load the theme after it to override.
+Simply just add one of the above stylesheets in the `themes` folder to the source of swagger-ui theme html page. Make sure to either remove/comment out the link to `screen.css`  or load the desired theme after it to override the Swagger UI styles.
 
 Feel free to open an issue or suggest more themes!
+
+###Demo
+---
+The [Swagger Petstore](http://petstore.swagger.io/#/) example was used as the example to showcase different themes. In the demo folder, open the index.html file and either remove or comment out the '<link href='css/screen.css' media='screen' rel='stylesheet' type='text/css'/>' in the <head> tags. Next add a link to the desired theme you want by adding '<link href='PATH TO THEME' media='screen' rel='stylesheet' type='text/css'/>'. Serve up the index.html locally to view theme. 
 
 ###License
 ---
