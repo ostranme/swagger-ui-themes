@@ -26,7 +26,7 @@ Feel free to open an issue or suggest more themes!
 
 ###Demo
 ---
-The [Swagger Petstore](http://petstore.swagger.io/#/) example was used as the example to showcase different themes. In the demo folder, open the index.html file and either remove or comment out the link to the 'screen.css' in the <head> tags. Next add a link to the desired stylesheet theme. Serve up the index.html locally to view theme. 
+The [Swagger Petstore](http://petstore.swagger.io/#/) example was used as the example to showcase different themes. In the demo folder, open the index.html file and either remove or comment out the link to the `screen.css` in the `<head>` tags. Next add a link to the desired stylesheet theme. Serve up the index.html locally to view theme. 
 
 ###License
 ---
