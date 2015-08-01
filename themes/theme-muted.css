@@ -353,9 +353,9 @@
 .swagger-section .swagger-ui-wrap .model-signature .propType {
   color: #5555aa;
 }
-/*.swagger-section .swagger-ui-wrap .model-signature pre:hover {
+.swagger-section .swagger-ui-wrap .model-signature pre:hover {
   background-color: #ffffdd;
-}*/
+}
 .swagger-section .swagger-ui-wrap .model-signature pre {
   font-size: .85em;
   line-height: 1.2em;

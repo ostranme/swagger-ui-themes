@@ -20,13 +20,13 @@ You can find the Swagger UI project on GitHub [here](https://github.com/swagger-
 
 ###Installation
 ---
-Simply just add one of the above stylesheets in the `themes` folder to the source of swagger-ui theme html page. Make sure to either remove/comment out the link to `screen.css`  or load the desired theme after it to override the Swagger UI styles.
-
-Feel free to open an issue or suggest more themes!
+Simply just add one of the above stylesheets in the `themes` folder to the source of swagger-ui theme html page. Make sure to either remove/comment out the link to `screen.css` or load the desired theme after it to override the Swagger UI styles.
 
 ###Demo
 ---
-The [Swagger Petstore](http://petstore.swagger.io/#/) example was used as the example to showcase different themes. In the demo folder, open the index.html file and either remove or comment out the `<link href='css/screen.css' media='screen' rel='stylesheet' type='text/css'/>` in the `<head>` tags. Next add a link to the desired theme you want by adding `<link href='PATH TO THEME' media='screen' rel='stylesheet' type='text/css'/>`. Serve up the index.html locally to view theme.
+The [Swagger Petstore](http://petstore.swagger.io/#/) was used as the example to showcase different themes. In the demo folder, open the index.html file and add a link to the desired theme you want by adding `<link href='PATH TO THEME' media='screen' rel='stylesheet' type='text/css'/>`. Next, either remove or comment out the `<link href='css/screen.css' media='screen' rel='stylesheet' type='text/css'/>` in the `<head>` tags. Serve up the index.html locally to view theme.
+
+Feel free to open an issue or suggest more themes!
 
 ###License
 ---
