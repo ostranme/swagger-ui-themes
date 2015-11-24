@@ -1,14 +1,14 @@
 {
   "name": "swagger-ui-themes",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "homepage": "https://github.com/ostranme/swagger-ui-themes",
   "author": "ostranme",
   "description": "CSS themes for Swagger UI",
   "main":  [
-    "themes/theme-flattop.css"
-    "themes/theme-monokai.css"
-    "themes/theme-muted.css"
-    "themes/theme-newspaper.css"
+    "themes/theme-flattop.css",
+    "themes/theme-monokai.css",
+    "themes/theme-muted.css",
+    "themes/theme-newspaper.css",
     "themes/theme-outline.css"
   ],
   "keywords": [
