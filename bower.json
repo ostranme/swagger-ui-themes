@@ -1,9 +1,8 @@
 {
   "name": "swagger-ui-themes",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "homepage": "https://github.com/ostranme/swagger-ui-themes",
-  "author":
-    "Mark Ostrander <ostranme@gmail.com>",
+  "author": "ostranme",
   "description": "CSS themes for Swagger UI",
   "main":  [
     "themes/theme-flattop.css"
