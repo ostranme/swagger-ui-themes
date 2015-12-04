@@ -8,6 +8,8 @@ Swagger Docs are awesome. Why not make them look better! Below is a collection o
 
 You can find the Swagger UI project on GitHub [here](https://github.com/swagger-api/swagger-ui).
 
+Get started at [http://meostrander.com/swagger-ui-themes/](http://meostrander.com/swagger-ui-themes/)
+
 ## Getting started
 
 Download the swagger-ui-themes project and place the desired stylesheet into the source of your swagger-ui html.
