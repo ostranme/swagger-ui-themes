@@ -1,34 +1,62 @@
-#Swagger UI Themes:
+## Swagger UI Themes
+
+*Version 2.0.0*
 
 Swagger Docs are awesome. Why not make them look better! Below is a collection of themes for [Swagger UI](http://swagger.io/swagger-ui/).
+
+![](https://media2.giphy.com/media/62PP2yEIAZF6g/200.gif)
+
 You can find the Swagger UI project on GitHub [here](https://github.com/swagger-api/swagger-ui).
 
-### Flattop
+Get started at [http://meostrander.com/swagger-ui-themes/](http://meostrander.com/swagger-ui-themes/)
+
+## Getting started
+
+Download the swagger-ui-themes project and place the desired stylesheet into the source of your swagger-ui html.
+
+In the `<head>` of your html, reference the location to your [theme].css
+
+Make sure to either remove/comment out the link to `screen.css` or load the desired theme after to override the default Swagger UI styles.
+
+```html
+<link rel="stylesheet" href="path/to/swagger-ui-themes/css/theme-flattop.css">
+```
+#### Install with Bower
+
+```shell
+$ bower install swagger-ui-themes
+```
+
+
+## Themes
+
+#### Flattop
 ![Flattop Screenshot](https://github.com/ostranme/swagger-ui-themes/blob/master/screenshots/flattop.png)
 
-### Muted
+#### Muted
 ![Muted Screenshot](https://github.com/ostranme/swagger-ui-themes/blob/master/screenshots/muted.png)
 
-### Newspaper
+#### Newspaper
 ![Newspaper Screenshot](https://github.com/ostranme/swagger-ui-themes/blob/master/screenshots/newspaper.png)
 
-### Outline
+#### Outline
 ![Outline Screenshot](https://github.com/ostranme/swagger-ui-themes/blob/master/screenshots/outline.png)
 
-### Monokai
+#### Monokai
 ![Monokai Screenshot](https://github.com/ostranme/swagger-ui-themes/blob/master/screenshots/monokai.png)
 
-###Installation
----
-Simply just add one of the above stylesheets in the `themes` folder to the source of swagger-ui theme html page. Make sure to either remove/comment out the link to `screen.css` or load the desired theme after it to override the Swagger UI styles.
+#### Feeling Blue
+![Feeling Blue Screenshot](https://github.com/ostranme/swagger-ui-themes/blob/master/screenshots/feeling-blue.png)
 
-###Demo
----
-The [Swagger Petstore](http://petstore.swagger.io/#/) was used as the example to showcase different themes. In the demo folder, open the index.html file and add a link to the desired theme you want by adding `<link href='PATH TO THEME' media='screen' rel='stylesheet' type='text/css'/>`. Next, either remove or comment out the `<link href='css/screen.css' media='screen' rel='stylesheet' type='text/css'/>` in the `<head>` tags. Serve up the index.html locally to view theme.
+## Contributing
 
-Feel free to open an issue or suggest more themes!
+If you want to add theme ideas or other fixes/changes to how the package works, feel free to submit an issue.
 
-###License
----
+#### Requesting new theme
 
-The MIT License. Read [LICENSE](LICENSE) for further information.
+- Title your new issue Theme request: theme-name (e.g., Theme request: theme-solarized).
+- Include a few use cases for your requested theme. How do you plan on using it?
+
+## License
+
+- Code licensed under [MIT License](http://opensource.org/licenses/mit-license.html)

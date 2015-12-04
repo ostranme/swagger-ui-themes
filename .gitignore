@@ -1,1 +1,4 @@
-.DS_Store
+**/.DS_Store
+**/tmp
+**/.sass-cache
+**/node_modules
