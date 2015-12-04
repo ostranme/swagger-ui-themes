@@ -10,7 +10,7 @@
 .swagger-section pre .lisp .title,
 .swagger-section pre .clojure .built_in,
 .swagger-section pre .nginx .title {
-  color: white;
+  color: #f1f1f1;
 }
 .swagger-section pre .string,
 .swagger-section pre .title,
@@ -36,7 +36,7 @@
 .swagger-section pre .tex .special,
 .swagger-section pre .erlang_repl .function_or_atom,
 .swagger-section pre .markdown .header {
-  color: #FD971F;
+  color: #02bfe7;
 }
 .swagger-section pre .comment,
 .swagger-section pre .annotation,
@@ -56,7 +56,7 @@
 .swagger-section pre .change,
 .swagger-section pre .markdown .bullet,
 .swagger-section pre .markdown .link_url {
-  color: #66D9EF;
+  color: #e59393;
 }
 .swagger-section pre .label,
 .swagger-section pre .javadoc,
@@ -139,7 +139,7 @@
 .swagger-section .swagger-ui-wrap p {
   line-height: 1.4em;
   padding: 0 0 10px;
-  color: #3E4049;
+  color: #212121;
 }
 .swagger-section .swagger-ui-wrap q:before,
 .swagger-section .swagger-ui-wrap q:after,
@@ -193,7 +193,7 @@
 .swagger-section .swagger-ui-wrap ol li {
   padding: 5px 0px;
   font-size: 0.9em;
-  color: #3E4049;
+  color: ##212121;
 }
 .swagger-section .swagger-ui-wrap ol,
 .swagger-section .swagger-ui-wrap ul {
@@ -245,8 +245,8 @@
 }
 .swagger-section .swagger-ui-wrap pre {
   font-family: "Anonymous Pro", "Menlo", "Consolas", "Bitstream Vera Sans Mono", "Courier New", monospace;
-  background-color: #272822;
-  border: 1px solid #272822;
+  background-color: #323a45;
+  border: 1px solid #323a45;
   padding: 10px;
 }
 .swagger-section .swagger-ui-wrap pre code {
@@ -354,7 +354,7 @@
   color: #5555aa;
 }
 .swagger-section .swagger-ui-wrap .model-signature pre:hover {
-  background-color: black;
+  background-color: #5b616b;
 }
 .swagger-section .swagger-ui-wrap .model-signature pre {
   font-size: .85em;
@@ -710,7 +710,7 @@
   padding-left: 10px;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation div.heading h3 span.path a {
-  color: white;
+  color: black;
   text-decoration: none;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation div.heading h3 span.path a:hover {
@@ -814,182 +814,181 @@
   font-size: 0.9em;
   max-height: 400px;
   overflow-y: auto;
-  color: white;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.put div.heading {
-  background-color: #272822;
-  border: 1px solid #272822;
+  background-color: #f1f1f1;
+  border: 1px solid #DADFE1;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.put div.heading h3 span.http_method a {
-  background-color: #FD971F;
+  background-color: #0071bc;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.put div.heading ul.options li {
   border-right: 1px solid #DADFE1;
   border-right-color: #DADFE1;
-  color: #FD971F;
+  color: #0071bc;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.put div.heading ul.options li a {
-  color: #FD971F;
+  color: #0071bc;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.put div.content {
-  background-color: #ECF0F1;
-  border: 1px solid #272822;
+  background-color: #f1f1f1;
+  border: 1px solid #DADFE1;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.put div.content h4 {
-  color: #FD971F;
+  color: #0071bc;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.put div.content div.sandbox_header a {
   color: #dcb67f;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.head div.heading {
-  background-color: #272822;
-  border: 1px solid #272822;
+  background-color: #f1f1f1;
+  border: 1px solid #DADFE1;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.head div.heading h3 span.http_method a {
   text-transform: uppercase;
-  background-color: #F7CA18;
+  background-color: #205493;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.head div.heading ul.options li {
   border-right: 1px solid #DADFE1;
   border-right-color: #DADFE1;
-  color: #F7CA18;
+  color: #205493;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.head div.heading ul.options li a {
-  color: #F7CA18;
+  color: #205493;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.head div.content {
-  background-color: #ECF0F1;
+  background-color: #f1f1f1;
   border: 1px solid black;
-  border-color: #272822;
+  border-color: #205493;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.head div.content h4 {
-  color: #F7CA18;
+  color: #205493;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.head div.content div.sandbox_header a {
   color: #6fc992;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.delete div.heading {
-  background-color: #272822;
-  border: 1px solid #272822;
+  background-color: #f1f1f1;
+  border: 1px solid #DADFE1;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.delete div.heading h3 span.http_method a {
   text-transform: uppercase;
-  background-color: #CB4876;
+  background-color: #112e51;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.delete div.heading ul.options li {
   border-right: 1px solid #DADFE1;
   border-right-color: #DADFE1;
-  color: #CB4876;
+  color: #112e51;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.delete div.heading ul.options li a {
-  color: #CB4876;
+  color: #112e51;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.delete div.content {
-  background-color: #ECF0F1;
-  border: 1px solid #272822;
+  background-color: #f1f1f1;
+  border: 1px solid #DADFE1;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.delete div.content h4 {
-  color: #CB4876;
+  color: #112e51;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.delete div.content div.sandbox_header a {
   color: #c8787a;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.post div.heading {
-  background-color: #272822;
-  border: 1px solid #272822;
+  background-color: #f1f1f1;
+  border: 1px solid #DADFE1;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.post div.heading h3 span.http_method a {
-  background-color: #86C30D;
+  background-color: #205493;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.post div.heading ul.options li {
   border-right: 1px solid #DADFE1;
   border-right-color: #DADFE1;
-  color: #86C30D;
+  color: #205493;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.post div.heading ul.options li a {
-  color: #86C30D;
+  color: #205493;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.post div.content {
-  background-color: #ECF0F1;
-  border: 1px solid #272822;
+  background-color: #f1f1f1;
+  border: 1px solid #DADFE1;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.post div.content h4 {
-  color: #86C30D;
+  color: #205493;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.post div.content div.sandbox_header a {
-  color: #86C30D;
+  color: #205493;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.patch div.heading {
-  background-color: #272822;
-  border: 1px solid #272822;
+  background-color: #f1f1f1;
+  border: 1px solid #DADFE1;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.patch div.heading h3 span.http_method a {
-  background-color: #D35400;
+  background-color: #112e51;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.patch div.heading ul.options li {
   border-right: 1px solid #dddddd;
   border-right-color: #f0cecb;
-  color: #D35400;
+  color: #112e51;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.patch div.heading ul.options li a {
-  color: #D35400;
+  color: #112e51;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.patch div.content {
-  background-color: #ECF0F1;
-  border: 1px solid #272822;
+  background-color: #f1f1f1;
+  border: 1px solid #DADFE1;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.patch div.content h4 {
-  color: #D35400;
+  color: #112e51;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.patch div.content div.sandbox_header a {
   color: #dcb67f;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.get div.heading {
-  background-color: #272822;
-  border: 1px solid #272822;
+  background-color: #f1f1f1;
+  border: 1px solid #DADFE1;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.get div.heading h3 span.http_method a {
-  background-color: #1DB4D0;
+  background-color: #34495E;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.get div.heading ul.options li {
   border-right: 1px solid #dddddd;
   border-right-color: #c3d9ec;
-  color: #1DB4D0;
+  color: #323a45;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.get div.heading ul.options li a {
-  color: #1DB4D0;
+  color: #323a45;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.get div.content {
-  background-color: #ECF0F1;
-  border: 1px solid #272822;
+  background-color: #f1f1f1;
+  border: 1px solid #DADFE1;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.get div.content h4 {
-  color: #1DB4D0;
+  color: #323a45;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.get div.content div.sandbox_header a {
   color: #6fa5d2;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.options div.heading {
-  background-color: #F6F6F6;
+  background-color: #f1f1f1;
   border: 1px solid #DADFE1;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.options div.heading h3 span.http_method a {
-  background-color: #66D9EF;
+  background-color: #323a45;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.options div.heading ul.options li {
   border-right: 1px solid #dddddd;
   border-right-color: #c3d9ec;
-  color: #66D9EF;
+  color: #323a45;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.options div.heading ul.options li a {
-  color: #66D9EF;
+  color: #323a45;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.options div.content {
-  background-color: #ECF0F1;
+  background-color: #f1f1f1;
   border: 1px solid #DADFE1;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.options div.content h4 {
-  color: #66D9EF;
+  color: #323a45;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.options div.content div.sandbox_header a {
   color: #6fa5d2;
@@ -1217,7 +1216,7 @@
   cursor: pointer;
 }
 .swagger-section #header {
-  background-color: #272822;
+  background-color: #323a45;
   padding: 14px;
 }
 .swagger-section #header a#logo {
@@ -1251,8 +1250,8 @@
   font-weight: bold;
   padding: 6px 8px;
   font-size: 0.9em;
-  color: #272822;
-  background-color: white;
+  color: #2C3E50;
+  background-color: #DADFE1;
   -moz-border-radius: 4px;
   -webkit-border-radius: 4px;
   -o-border-radius: 4px;
@@ -1261,7 +1260,7 @@
   border-radius: 4px;
 }
 .swagger-section #header form#api_selector .input a#explore:hover {
-  background-color: white;
+  background-color: #DADFE1;
 }
 .swagger-section #header form#api_selector .input input {
   font-size: 0.9em;
