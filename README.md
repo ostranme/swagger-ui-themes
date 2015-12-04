@@ -17,7 +17,7 @@ In the `<head>` of your html, reference the location to your [theme].css
 Make sure to either remove/comment out the link to `screen.css` or load the desired theme after to override the default Swagger UI styles.
 
 ```html
-<link rel="stylesheet" href="path/to/swagger-ui-themes/css/flattop.css">
+<link rel="stylesheet" href="path/to/swagger-ui-themes/css/theme-flattop.css">
 ```
 #### Install with Bower
 
@@ -52,7 +52,7 @@ If you want to add theme ideas or other fixes/changes to how the package works, 
 
 #### Requesting new theme
 
-- Title your new issue Theme request: theme-name (e.g., Theme request: solarized).
+- Title your new issue Theme request: theme-name (e.g., Theme request: theme-solarized).
 - Include a few use cases for your requested theme. How do you plan on using it?
 
 ## License
