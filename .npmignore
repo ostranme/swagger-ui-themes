@@ -1,0 +1,12 @@
+.DS_Store
+_gh_pages/*
+
+dist
+tmp
+.sass-cache
+node_modules
+
+# don't need these in the npm package.
+src/
+_config.yml
+bower.json
