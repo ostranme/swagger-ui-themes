@@ -1,6 +1,6 @@
 ## Swagger UI Themes
 
-*Version 2.0.0*
+*Version 2.0.1*
 
 Swagger Docs are awesome. Why not make them look better! Below is a collection of themes for [Swagger UI](http://swagger.io/swagger-ui/).
 
@@ -21,12 +21,17 @@ Make sure to either remove/comment out the link to `screen.css` or load the desi
 ```html
 <link rel="stylesheet" href="path/to/swagger-ui-themes/css/theme-flattop.css">
 ```
-#### Install with Bower
+#### Install with bower
 
 ```shell
 $ bower install swagger-ui-themes
 ```
 
+#### Install with npm
+
+```shell
+$ npm install swagger-ui-themes
+```
 
 ## Themes
 
