@@ -1499,15 +1499,25 @@
  * Author: Mark Ostrander
  * Github: https://github.com/ostranme/swagger-ui-themes
  */
+.swagger-section .swagger-ui-wrap {
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+}
+.swagger-section .swagger-ui-wrap b,
+.swagger-section .swagger-ui-wrap strong {
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+}
 .swagger-section .swagger-ui-wrap a {
-  color: #336E7B;
+  color: #3F51B5;
 }
 .swagger-section .swagger-ui-wrap pre {
-  background-color: #FFFCF7;
-  border: 1px solid #FFFCF7;
+  background-color: #EEEEEE;
+  border: 1px solid #E0E0E0;
 }
 .swagger-section .swagger-ui-wrap .model-signature pre:hover {
-  background-color: #E8E8E8;
+  background-color: #FFFFFF;
+}
+.swagger-section .swagger-ui-wrap h1 {
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
 }
 .swagger-section .swagger-ui-wrap .markdown h3 {
   color: #222222;
@@ -1516,123 +1526,156 @@
   color: #666666;
 }
 .swagger-section .swagger-ui-wrap .markdown pre {
-  background-color: #FFFCF7;
-  border: 1px solid #FFFCF7;
+  background-color: #EEEEEE;
+  border: 1px solid #E0E0E0;
+}
+.swagger-section .swagger-ui-wrap ul#resources {
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+}
+.swagger-section .swagger-ui-wrap ul#resources li.resource div.heading h2 {
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+}
+.swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation {
+  box-shadow: 0 1px 5px 0 rgba(0,0,0,.4),0 2px 2px 0 rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.12);
+}
+.swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation div.content div.sandbox_header input.submit {
+  background-color: #3F51B5;
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.2),0 1px 5px 0 rgba(0,0,0,.12);
+  border: none;
+  border-radius: 2px;
+  color: #FFFFFF;
+  position: relative;
+  margin: 0;
+  min-width: 64px;
+  padding: 6px 8px;
+  display: inline-block;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-size: 0.9em;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0;
+  overflow: hidden;
+  will-change: box-shadow;
+  transition: box-shadow .2s cubic-bezier(.4,0,1,1),background-color .2s cubic-bezier(.4,0,.2,1),color .2s cubic-bezier(.4,0,.2,1);
+  outline: none;
+  cursor: pointer;
+  text-decoration: none;
+  text-align: center;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.put div.heading {
-  background-color: #F6F6F6;
-  border: 1px solid #DADFE1;
+  background-color: #FFFFFF;
+  border: none;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.put div.heading h3 span.http_method a {
-  background-color: #633B63;
+  background-color: #FF9800;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.put div.heading ul.options li {
-  color: #633B63;
+  color: #FF9800;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.put div.heading ul.options li a {
-  color: #633B63;
+  color: #FF9800;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.put div.content {
-  background-color: #F6F6F6;
-  border: 1px solid #DADFE1;
+  background-color: #FFFFFF;
+  border: none;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.put div.content h4 {
-  color: #633B63;
+  color: #FF9800;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.head div.heading {
-  background-color: #F6F6F6;
-  border: 1px solid #DADFE1;
+  background-color: #FFFFFF;
+  border: none;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.head div.content {
-  background-color: #F6F6F6;
-  border: 1px solid #DADFE1;
+  background-color: #FFFFFF;
+  border: none;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.delete div.heading {
-  background-color: #F6F6F6;
-  border: 1px solid #DADFE1;
+  background-color: #FFFFFF;
+  border: none;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.delete div.heading h3 span.http_method a {
-  background-color: #C1786A;
+  background-color: #F44336;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.delete div.heading ul.options li {
-  color: #C1786A;
+  color: #F44336;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.delete div.heading ul.options li a {
-  color: #C1786A;
+  color: #F44336;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.delete div.content {
-  background-color: #F6F6F6;
-  border: 1px solid #DADFE1;
+  background-color: #FFFFFF;
+  border: none;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.delete div.content h4 {
-  color: #C1786A;
+  color: #F44336;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.post div.heading {
-  background-color: #F6F6F6;
-  border: 1px solid #DADFE1;
+  background-color: #FFFFFF;
+  border: none;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.post div.heading h3 span.http_method a {
-  background-color: #64908A;
+  background-color: #009688;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.post div.heading ul.options li {
-  color: #64908A;
+  color: #009688;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.post div.heading ul.options li a {
-  color: #64908A;
+  color: #009688;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.post div.content {
-  background-color: #F6F6F6;
-  border: 1px solid #DADFE1;
+  background-color: #FFFFFF;
+  border: none;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.post div.content h4 {
-  color: #64908A;
+  color: #009688;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.post div.content div.sandbox_header a {
-  color: #64908A;
+  color: #009688;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.patch div.heading {
-  background-color: #F6F6F6;
-  border: 1px solid #DADFE1;
+  background-color: #FFFFFF;
+  border: none;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.patch div.heading h3 span.http_method a {
-  background-color: #C1976A;
+  background-color: #F57C00;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.patch div.heading ul.options li {
-  color: #C1976A;
+  color: #F57C00;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.patch div.heading ul.options li a {
-  color: #C1976A;
+  color: #F57C00;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.patch div.content {
-  background-color: #F6F6F6;
-  border: 1px solid #DADFE1;
+  background-color: #FFFFFF;
+  border: none;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.patch div.content h4 {
-  color: #C1976A;
+  color: #F57C00;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.get div.heading {
-  background-color: #F6F6F6;
-  border: 1px solid #DADFE1;
+  background-color: #FFFFFF;
+  border: none;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.get div.heading h3 span.http_method a {
-  background-color: #3F778E;
+  background-color: #3F51B5;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.get div.heading ul.options li {
-  color: #3F778E;
+  color: #3F51B5;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.get div.heading ul.options li a {
-  color: #3F778E;
+  color: #3F51B5;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.get div.content {
-  background-color: #F6F6F6;
-  border: 1px solid #DADFE1;
+  background-color: #FFFFFF;
+  border: none;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.get div.content h4 {
-  color: #3F778E;
+  color: #3F51B5;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.options div.heading {
-  background-color: #F6F6F6;
-  border: 1px solid #DADFE1;
+  background-color: #FFFFFF;
+  border: none;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.options div.heading h3 span.http_method a {
   background-color: #3F51B5;
@@ -1644,17 +1687,55 @@
   color: #3F51B5;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.options div.content {
-  background-color: #F6F6F6;
-  border: 1px solid #DADFE1;
+  background-color: #FFFFFF;
+  border: none;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.options div.content h4 {
   color: #3F51B5;
 }
+.swagger-section .swagger-ui-wrap p#colophon {
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+}
+.swagger-section .swagger-ui-wrap .markdown ol,
+.swagger-section .swagger-ui-wrap .markdown ul {
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+}
 .swagger-section #header {
-  background-color: #6F7E88;
+  margin: 0;
+  border: none;
+  z-index: 3;
+  background-color: #3f51b5;
+  color: #fff;
+  box-shadow: 0 5px 5px 0 rgba(0,0,0,.4),0 3px 1px -2px rgba(0,0,0,.2),0 1px 5px 0 rgba(0,0,0,.12);
+  transition-duration: .2s;
+  transition-timing-function: cubic-bezier(.4,0,.2,1);
+  transition-property: max-height,box-shadow;
 }
 .swagger-section #explore,
 .swagger-section #auth_container .authorize__btn {
-  color: #6F7E88;
-  background-color: #DADFE1;
+  background-color: #ffffff;
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.2),0 1px 5px 0 rgba(0,0,0,.12);
+  border: none;
+  border-radius: 2px;
+  color: #000;
+  position: relative;
+  margin: 0;
+  min-width: 64px;
+  padding: 6px 8px;
+  display: inline-block;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-size: 0.9em;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0;
+  will-change: box-shadow;
+  transition: box-shadow .2s cubic-bezier(.4,0,1,1),background-color .2s cubic-bezier(.4,0,.2,1),color .2s cubic-bezier(.4,0,.2,1);
+  outline: none;
+  cursor: pointer;
+  text-decoration: none;
+  text-align: center;
+}
+.swagger-section #explore:hover,
+.swagger-section #auth_container .authorize__btn:hover {
+    background-color: #FFFFFF;
 }
