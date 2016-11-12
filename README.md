@@ -1,14 +1,17 @@
 ## Swagger UI Themes
 
-*Version 2.0.1*
+*Version 2.1.0*
 
-Swagger Docs are awesome. Why not make them look better! Below is a collection of themes for [Swagger UI](http://swagger.io/swagger-ui/).
+[![npm](https://img.shields.io/npm/v/swagger-ui-themes.svg?style=flat-square)](https://www.npmjs.com/package/swagger-ui-themes)
+[![Bower](https://img.shields.io/bower/v/swagger-ui-themes.svg?style=flat-square)](https://github.com/ostranme/swagger-ui-themes)
+
+> Swagger Docs are awesome. Why not make them look better!
 
 ![](https://media2.giphy.com/media/62PP2yEIAZF6g/200.gif)
 
-You can find the Swagger UI project on GitHub [here](https://github.com/swagger-api/swagger-ui).
 
-Get started at [http://meostrander.com/swagger-ui-themes/](http://meostrander.com/swagger-ui-themes/)
+- Below is a collection of CSS themes for [Swagger UI](http://swagger.io/swagger-ui/).
+- Get started at [http://meostrander.com/swagger-ui-themes/](http://meostrander.com/swagger-ui-themes/)
 
 ## Getting started
 
@@ -35,31 +38,34 @@ $ npm install swagger-ui-themes
 
 ## Themes
 
+#### Material
+![Material Screenshot](screenshots/material.png)
+
 #### Flattop
-![Flattop Screenshot](https://github.com/ostranme/swagger-ui-themes/blob/master/screenshots/flattop.png)
+![Flattop Screenshot](screenshots/flattop.png)
 
 #### Muted
-![Muted Screenshot](https://github.com/ostranme/swagger-ui-themes/blob/master/screenshots/muted.png)
+![Muted Screenshot](screenshots/muted.png)
 
 #### Newspaper
-![Newspaper Screenshot](https://github.com/ostranme/swagger-ui-themes/blob/master/screenshots/newspaper.png)
+![Newspaper Screenshot](screenshots/newspaper.png)
 
 #### Outline
-![Outline Screenshot](https://github.com/ostranme/swagger-ui-themes/blob/master/screenshots/outline.png)
+![Outline Screenshot](screenshots/outline.png)
 
 #### Monokai
-![Monokai Screenshot](https://github.com/ostranme/swagger-ui-themes/blob/master/screenshots/monokai.png)
+![Monokai Screenshot](screenshots/monokai.png)
 
 #### Feeling Blue
-![Feeling Blue Screenshot](https://github.com/ostranme/swagger-ui-themes/blob/master/screenshots/feeling-blue.png)
+![Feeling Blue Screenshot](screenshots/feeling-blue.png)
 
 ## Contributing
 
-If you want to add theme ideas or other fixes/changes to how the package works, feel free to submit an issue.
+If you want to add theme ideas or other fixes/changes, feel free to submit an issue.
 
 #### Requesting new theme
 
-- Title your new issue Theme request: theme-name (e.g., Theme request: theme-solarized).
+- Title your new issue Theme request: theme-name (e.g., Theme request: theme-nyan-cat).
 - Include a few use cases for your requested theme. How do you plan on using it?
 
 ## License
