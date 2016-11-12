@@ -3,11 +3,13 @@
 [![npm](https://img.shields.io/npm/v/swagger-ui-themes.svg?style=flat-square)](https://www.npmjs.com/package/swagger-ui-themes)
 [![Bower](https://img.shields.io/bower/v/swagger-ui-themes.svg?style=flat-square)](https://github.com/ostranme/swagger-ui-themes)
 
-Swagger Docs are awesome. Why not make them look better! Below is a collection of CSS themes for [Swagger UI](http://swagger.io/swagger-ui/).
+> Swagger Docs are awesome. Why not make them look better!
 
 ![](https://media2.giphy.com/media/62PP2yEIAZF6g/200.gif)
 
-Get started at [http://meostrander.com/swagger-ui-themes/](http://meostrander.com/swagger-ui-themes/)
+
+- Below is a collection of CSS themes for [Swagger UI](http://swagger.io/swagger-ui/).
+- Get started at [http://meostrander.com/swagger-ui-themes/](http://meostrander.com/swagger-ui-themes/)
 
 ## Getting started
 
