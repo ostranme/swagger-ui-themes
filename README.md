@@ -1,6 +1,6 @@
 ## Swagger UI Themes
 
-*Version 2.0.1*
+*Version 2.1.0*
 
 Swagger Docs are awesome. Why not make them look better! Below is a collection of themes for [Swagger UI](http://swagger.io/swagger-ui/).
 
@@ -35,6 +35,9 @@ $ npm install swagger-ui-themes
 
 ## Themes
 
+#### Material
+![Material Screenshot](https://github.com/ostranme/swagger-ui-themes/blob/master/screenshots/material.png)
+
 #### Flattop
 ![Flattop Screenshot](https://github.com/ostranme/swagger-ui-themes/blob/master/screenshots/flattop.png)
 
@@ -55,7 +58,7 @@ $ npm install swagger-ui-themes
 
 ## Contributing
 
-If you want to add theme ideas or other fixes/changes to how the package works, feel free to submit an issue.
+If you want to add theme ideas or other fixes/changes, feel free to submit an issue.
 
 #### Requesting new theme
 
