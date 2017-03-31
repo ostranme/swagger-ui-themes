@@ -15,11 +15,13 @@
 
 ## Getting started
 
-Download the swagger-ui-themes project and place the desired stylesheet into the source of your swagger-ui html.
+Download the swagger-ui-themes project and place the desired stylesheet into the source of your swagger-ui html. Use the `3.x` or `2.x` directories depending on what version of Swagger UI you have.
 
 In the `<head>` of your html, reference the location to your [theme].css
 
-Make sure to either remove/comment out the link to `screen.css` or load the desired theme after to override the default Swagger UI styles.
+For `3.x`, make sure to either remove/comment out the link to `swagger-ui.css` or load the desired theme after to override the default Swagger UI styles.
+
+For `2.x`, make sure to either remove/comment out the link to `screen.css` or load the desired theme after to override the default Swagger UI styles.
 
 ```html
 <link rel="stylesheet" href="path/to/swagger-ui-themes/css/theme-flattop.css">
@@ -36,7 +38,30 @@ $ bower install swagger-ui-themes
 $ npm install swagger-ui-themes
 ```
 
-## Themes
+## 3.x Themes
+
+#### Material
+![Material Screenshot](screenshots/3.x/3.x-material.png)
+
+#### Flattop
+![Flattop Screenshot](screenshots/3.x/3.x-flattop.png)
+
+#### Muted
+![Muted Screenshot](screenshots/3.x/3.x-muted.png)
+
+#### Newspaper
+![Newspaper Screenshot](screenshots/3.x/3.x-newspaper.png)
+
+#### Outline
+![Outline Screenshot](screenshots/3.x/3.x-outline.png)
+
+#### Monokai
+![Monokai Screenshot](screenshots/3.x/3.x-monokai.png)
+
+#### Feeling Blue
+![Feeling Blue Screenshot](screenshots/3.x/3.x-feeling-blue.png)
+
+## 2.x Themes
 
 #### Material
 ![Material Screenshot](screenshots/2.x/2.x-material.png)
@@ -45,7 +70,7 @@ $ npm install swagger-ui-themes
 ![Flattop Screenshot](screenshots/2.x/2.x-flattop.png)
 
 #### Muted
-![Muted Screenshot](screenshots/2.x/2.x-png)
+![Muted Screenshot](screenshots/2.x/2.x-muted.png)
 
 #### Newspaper
 ![Newspaper Screenshot](screenshots/2.x/2.x-newspaper.png)
