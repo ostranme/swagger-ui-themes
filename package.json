@@ -1,7 +1,7 @@
 {
   "name": "swagger-ui-themes",
   "description": "A collection of CSS themes for Swagger UI",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "keywords": ["theme",  "swagger",  "swagger UI",  "ui",  "flat"],
   "homepage": "http://meostrander.com/swagger-ui-themes",
   "bugs": {
