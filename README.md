@@ -19,13 +19,14 @@ Download the swagger-ui-themes project and place the desired stylesheet into the
 
 In the `<head>` of your html, reference the location to your [theme].css
 
-For `3.x`, make sure to either remove/comment out the link to `swagger-ui.css` or load the desired theme after to override the default Swagger UI styles.
-
-For `2.x`, make sure to either remove/comment out the link to `screen.css` or load the desired theme after to override the default Swagger UI styles.
-
 ```html
 <link rel="stylesheet" href="path/to/swagger-ui-themes/css/theme-flattop.css">
 ```
+
+- For `3.x`, make sure to either remove/comment out the link to `swagger-ui.css` or load the desired theme after to override the default Swagger UI styles.
+
+- For `2.x`, make sure to either remove/comment out the link to `screen.css` or load the desired theme after to override the default Swagger UI styles.
+
 #### Install with bower
 
 ```shell
