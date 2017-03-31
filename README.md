@@ -1,6 +1,6 @@
 ## Swagger UI Themes
 
-*Version 2.1.0*
+*Version 3.0.0*
 
 [![npm](https://img.shields.io/npm/v/swagger-ui-themes.svg?style=flat-square)](https://www.npmjs.com/package/swagger-ui-themes)
 [![Bower](https://img.shields.io/bower/v/swagger-ui-themes.svg?style=flat-square)](https://github.com/ostranme/swagger-ui-themes)
@@ -39,25 +39,25 @@ $ npm install swagger-ui-themes
 ## Themes
 
 #### Material
-![Material Screenshot](screenshots/material.png)
+![Material Screenshot](screenshots/2.x/2.x-material.png)
 
 #### Flattop
-![Flattop Screenshot](screenshots/flattop.png)
+![Flattop Screenshot](screenshots/2.x/2.x-flattop.png)
 
 #### Muted
-![Muted Screenshot](screenshots/muted.png)
+![Muted Screenshot](screenshots/2.x/2.x-png)
 
 #### Newspaper
-![Newspaper Screenshot](screenshots/newspaper.png)
+![Newspaper Screenshot](screenshots/2.x/2.x-newspaper.png)
 
 #### Outline
-![Outline Screenshot](screenshots/outline.png)
+![Outline Screenshot](screenshots/2.x/2.x-outline.png)
 
 #### Monokai
-![Monokai Screenshot](screenshots/monokai.png)
+![Monokai Screenshot](screenshots/2.x/2.x-monokai.png)
 
 #### Feeling Blue
-![Feeling Blue Screenshot](screenshots/feeling-blue.png)
+![Feeling Blue Screenshot](screenshots/2.x/2.x-feeling-blue.png)
 
 ## Contributing
 
