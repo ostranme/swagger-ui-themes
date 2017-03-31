@@ -17,6 +17,25 @@
 
 Download the swagger-ui-themes project and place the desired stylesheet into the source of your swagger-ui html. Use the `3.x` or `2.x` directories depending on what version of Swagger UI you have.
 
+```
+├── 2.x
+│   ├── theme-feeling-blue.css
+│   ├── theme-flattop.css
+│   ├── theme-material.css
+│   ├── theme-monokai.css
+│   ├── theme-muted.css
+│   ├── theme-newspaper.css
+│   └── theme-outline.css
+└── 3.x
+    ├── theme-feeling-blue.css
+    ├── theme-flattop.css
+    ├── theme-material.css
+    ├── theme-monokai.css
+    ├── theme-muted.css
+    ├── theme-newspaper.css
+    └── theme-outline.css
+```
+
 In the `<head>` of your html, reference the location to your [theme].css
 
 ```html
