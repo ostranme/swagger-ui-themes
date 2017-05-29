@@ -45,8 +45,7 @@ In the `<head>` of your html, reference the location to your [theme].css
 - For `3.x`, make sure to either remove/comment out the link to `swagger-ui.css` or load the desired theme after to override the default Swagger UI styles.
 
   > If you have issues loading themes with 3.x, try modifying the index.html to load the theme.css absolutely last right before the closing body or html tag.
-
-  > [workaround] 3.x theme loading issue ([#25](https://github.com/ostranme/swagger-ui-themes/issues/28))
+  - [workaround] 3.x theme loading issue ([#25](https://github.com/ostranme/swagger-ui-themes/issues/28))
 
 - For `2.x`, make sure to either remove/comment out the link to `screen.css` or load the desired theme after to override the default Swagger UI styles.
 
