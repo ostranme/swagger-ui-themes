@@ -107,6 +107,15 @@ $ npm install swagger-ui-themes
 #### Feeling Blue
 ![Feeling Blue Screenshot](screenshots/2.x/2.x-feeling-blue.png)
 
+### Donate/Support
+Show your love for swagger-ui-themes. Donations to the project are always welcomed :)
+
+**BTC Wallet Address:** `1LE3fKWMtmk7mhCg8pz2Z1inEmanh4vAUM`
+
+**ETH Wallet Address:** `0x68bc05013EddaCD3b08296C4067E12783eff2CAE`
+
+**LTC Wallet Address:** `LX4rrzvxsa7Uo1mytvThZqcRmWprXVFBnk`
+
 ## Contributing
 
 If you want to add theme ideas or other fixes/changes, feel free to submit an issue.
