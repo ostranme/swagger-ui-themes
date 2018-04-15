@@ -107,6 +107,12 @@ $ npm install swagger-ui-themes
 #### Feeling Blue
 ![Feeling Blue Screenshot](screenshots/2.x/2.x-feeling-blue.png)
 
+## Community Driven Tools
+
+| Name | Description |
+|------|-------------|
+| [swagger-ui-themes-extensions](https://chrome.google.com/webstore/detail/swagger-ui-themes/mmbhchnmidfdfbecginjphmijieofngc) | Chrome extension to apply swagger-ui themes (https://github.com/AMoreaux/swagger-ui-themes-extension) |
+
 ## Donate/Support
 
 Show your love for swagger-ui-themes. Donations to the project are always welcomed :)
