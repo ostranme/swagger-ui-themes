@@ -1287,6 +1287,10 @@
   display: flex
 }
 
+.swagger-ui .topbar .download-url-wrapper label.select-label span {
+  color: white;
+}
+
 .swagger-ui .topbar .download-url-wrapper input[type=text] {
   min-width: 350px;
   margin: 0;
