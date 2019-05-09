@@ -113,16 +113,6 @@ $ npm install swagger-ui-themes
 |------|-------------|
 | [swagger-ui-themes-extensions](https://chrome.google.com/webstore/detail/swagger-ui-themes/mmbhchnmidfdfbecginjphmijieofngc) | Chrome extension to apply swagger-ui themes (https://github.com/AMoreaux/swagger-ui-themes-extension) |
 
-## Donate/Support
-
-Show your love for swagger-ui-themes. Donations to the project are always welcomed :)
-
-**BTC Wallet Address:** `1LE3fKWMtmk7mhCg8pz2Z1inEmanh4vAUM`
-
-**ETH Wallet Address:** `0x68bc05013EddaCD3b08296C4067E12783eff2CAE`
-
-**LTC Wallet Address:** `LX4rrzvxsa7Uo1mytvThZqcRmWprXVFBnk`
-
 ## Contributing
 
 If you want to add theme ideas or other fixes/changes, feel free to submit an issue.
