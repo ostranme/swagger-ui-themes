@@ -11,7 +11,7 @@
 
 
 - Below is a collection of CSS themes for [Swagger UI](http://swagger.io/swagger-ui/).
-- Get started at [http://meostrander.com/swagger-ui-themes/](http://meostrander.com/swagger-ui-themes/)
+- Get started at [http://ostranme.github.io/swagger-ui-themes/](http://ostranme.github.io/swagger-ui-themes/)
 
 ## Getting started
 
