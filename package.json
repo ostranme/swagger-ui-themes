@@ -1,11 +1,17 @@
 {
   "name": "swagger-ui-themes",
   "description": "A collection of CSS themes for Swagger UI",
-  "version": "3.0.0",
-  "keywords": ["theme",  "swagger",  "swagger UI",  "ui",  "flat"],
-  "homepage": "http://meostrander.com/swagger-ui-themes",
+  "version": "3.0.1",
+  "keywords": [
+    "theme",
+    "swagger",
+    "swagger UI",
+    "ui",
+    "flat"
+  ],
+  "homepage": "https://github.com/ostranme/swagger-ui-themes.git",
   "bugs": {
-    "url" : "http://github.com/ostranme/swagger-ui-themes/issues"
+    "url": "http://github.com/ostranme/swagger-ui-themes/issues"
   },
   "author": {
     "name": "Mark Ostrander",
@@ -15,12 +21,10 @@
     "type": "git",
     "url": "https://github.com/ostranme/swagger-ui-themes.git"
   },
-  "contributors": [
-  ],
+  "contributors": [],
   "license": "(MIT)",
-  "dependencies": {
-  },
-  "engines" : {
-    "node" : ">=0.10.3"
+  "dependencies": {},
+  "engines": {
+    "node": ">=0.10.3"
   }
 }

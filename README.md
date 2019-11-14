@@ -1,6 +1,6 @@
 ## Swagger UI Themes
 
-*Version 3.0.0*
+*Version 3.0.1*
 
 [![npm](https://img.shields.io/npm/v/swagger-ui-themes.svg?style=flat-square)](https://www.npmjs.com/package/swagger-ui-themes)
 [![Bower](https://img.shields.io/bower/v/swagger-ui-themes.svg?style=flat-square)](https://github.com/ostranme/swagger-ui-themes)
