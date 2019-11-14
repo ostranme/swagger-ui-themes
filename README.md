@@ -11,7 +11,7 @@
 
 
 - Below is a collection of CSS themes for [Swagger UI](http://swagger.io/swagger-ui/).
-- Get started at [http://meostrander.com/swagger-ui-themes/](http://meostrander.com/swagger-ui-themes/)
+- Get started at [http://ostranme.github.io/swagger-ui-themes/](http://ostranme.github.io/swagger-ui-themes/)
 
 ## Getting started
 
@@ -106,6 +106,12 @@ $ npm install swagger-ui-themes
 
 #### Feeling Blue
 ![Feeling Blue Screenshot](screenshots/2.x/2.x-feeling-blue.png)
+
+## Community Driven Tools
+
+| Name | Description |
+|------|-------------|
+| [swagger-ui-themes-extensions](https://chrome.google.com/webstore/detail/swagger-ui-themes/mmbhchnmidfdfbecginjphmijieofngc) | Chrome extension to apply swagger-ui themes (https://github.com/AMoreaux/swagger-ui-themes-extension) |
 
 ## Contributing
 
